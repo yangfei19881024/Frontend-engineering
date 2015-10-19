@@ -7,3 +7,9 @@ fis3 release -d ./output
 
 - fis-parser-handlebars-3.x
     - GitHub https://github.com/scrat-team/fis-parser-handlebars-3.x
+
+
+## use coffee-script
+```
+npm install -g fis-parser-coffee-script
+```
