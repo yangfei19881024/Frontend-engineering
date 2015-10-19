@@ -7,12 +7,16 @@ data = [
   },
   {
     name:"tomcat"
-    age:"12"
+    age:"33"
   }
 ]
 
+numbers = [10, 5, 100, 2, 1000];
+age = 10
+
 content = template4({
-    datalist:data
+    datalist:data,
+    age:age
 })
 
 document.write content

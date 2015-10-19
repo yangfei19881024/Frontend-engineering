@@ -14,3 +14,10 @@ fis.match('*.coffee', {
         //fis-parser-handlebars-3.x option
     }),
 });
+
+//npm install -g fis-parser-utc
+// fis.match('*.coffee', {
+//     parser: fis.plugin('utc', {
+//         //fis-parser-handlebars-3.x option
+//     }),
+// });
