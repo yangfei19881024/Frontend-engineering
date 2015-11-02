@@ -1,5 +1,5 @@
 var API = function(){
-  alert("API call");
+  // alert("API call!!!");
 }
 
 exports.API = API;
